@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Node.js with React
 # Build a Node.js project that uses React.
 # Add steps that analyze code, save build artifacts, deploy, and more:
@@ -20,6 +21,8 @@
 #     npm run build
 #   displayName: 'npm install and build'
 
+=======
+>>>>>>> b490a15c938cf7e01e0fe447cfdccc0bcac77bc5
 trigger:
 - main
 
