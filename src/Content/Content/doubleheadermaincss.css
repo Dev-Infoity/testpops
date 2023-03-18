@@ -1,0 +1,20 @@
+
+#content-header#content-header.cstm-hdrrr2 {
+    height: 113px;
+}
+#content-header#content-header.cstm-hdrrr2 .dblhdr-cstmm-hdrsnd {
+    max-width: 1120px;
+    margin: 0 auto;
+}
+#content-header#content-header.cstm-hdrrr2 .dshbdhdrbtn.dshbdhdrbtn {
+    line-height: 1;
+    font-weight: 100 !important;
+    font-family: 'Circular-Bold';
+    padding-bottom: 14px;
+    padding-top: 14px;
+}
+#content-header#content-header.cstm-hdrrr2 .nvhdr.active .dshbdhdrbtn {
+    color: #ff5745 !important;
+    border-bottom: 2px solid #ff5745;
+    opacity: 1;
+}
