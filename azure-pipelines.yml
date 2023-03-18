@@ -31,8 +31,6 @@ steps:
   inputs:
     versionSpec: '10.x'
   displayName: 'Install Node.js'
-  inputs:
-    versionSpec: '14.x'
 
 - script: |
     npm install
